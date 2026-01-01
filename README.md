@@ -131,18 +131,7 @@ Proper window insets are handled using:
 Splash → Login/Sign Up → Create Account → Home → Player
 ```
 
-## 🧪 Testing
 
-The project includes test configurations for:
-- Unit tests (JUnit)
-- Instrumented tests (Espresso)
-- Compose UI tests
-
-Run tests using:
-```bash
-./gradlew test          # Unit tests
-./gradlew connectedAndroidTest  # Instrumented tests
-```
 
 ## 📝 Code Style
 
@@ -165,7 +154,7 @@ This project is for educational and testing purposes only. Spotify is a trademar
 
 ## 👨‍💻 Author
 
-Developed by Fixton Technologies
+Developed by xardarkamran
 
 ## 🙏 Acknowledgments
 
