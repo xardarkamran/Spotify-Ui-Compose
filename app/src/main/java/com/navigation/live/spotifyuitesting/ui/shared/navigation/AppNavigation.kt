@@ -23,7 +23,7 @@ fun AppNavigation() {
     val navController = rememberNavController()
     NavHost(
         navController = navController,
-        startDestination = AppRoutes.Splash.route,
+        startDestination = AppRoutes.Home.route,
         modifier = Modifier.background(Color.Black),
         enterTransition = {
             slideInHorizontally(initialOffsetX = { 1000 }) + fadeIn()
